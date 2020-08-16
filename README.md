@@ -1,4 +1,4 @@
-Followed REDUX tutorial on old , current and future Redux trends [React Redux Tutorial for Beginners: The Complete Guide (2020)(https://www.valentinog.com/blog/redux/)]
+Followed REDUX tutorial on old , current and future Redux trends [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
